@@ -15,7 +15,7 @@ function KhojSlider() {
     slidesToShow: 3,
     slidesToScroll: 3,
     initialSlide: 0,
-    responsive: [
+    responsive : [
       {
         breakpoint: 1024,
         settings: {
